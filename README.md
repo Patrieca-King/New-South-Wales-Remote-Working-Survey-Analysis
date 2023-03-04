@@ -54,3 +54,6 @@ Here is where I got stuck, however. I couldn't go any further in Excel on my Mac
 I remade the charts I had made in Excel and added the slicers, called filters in Tableau, connecting them to all three charts. I couldn't get the charts to merge into one, but I could put them alongside each other. That gave me the following.
 
 ![Dashboard 2](https://user-images.githubusercontent.com/102552140/222872749-4b223000-c8f1-482b-8926-55161d6f7f88.png)
+
+Click the following link to interact with the dashboard yourself.
+https://public.tableau.com/app/profile/patrieca/viz/NSWRemoteWorkingSurvey/Dashboard2
